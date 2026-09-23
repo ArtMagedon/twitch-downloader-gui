@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Twitch Downloader
+Comment=GUI for TwitchDownloaderCLI
+Exec=twitch-downloader-gui
+Terminal=false
+Categories=AudioVideo;Network;
+StartupNotify=true
